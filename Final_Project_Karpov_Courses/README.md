@@ -1,4 +1,4 @@
-**Final_Project Karpov Kourses**
+#Final Project of Karpov Kourses
 
 Project consists of three tasks:
 1. A/B-test
